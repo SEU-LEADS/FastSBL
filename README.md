@@ -19,6 +19,7 @@ W. Zhou, H. -T. Zhang and J. Wang, "An Efficient Sparse Bayesian Learning Algori
  
  bibtex: 
 
+```bibtex
 @ARTICLE{zhou2021efficient,
   author={W. {Zhou} and H.-T. {Zhang} and J. {Wang}},
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
@@ -28,4 +29,5 @@ W. Zhou, H. -T. Zhang and J. Wang, "An Efficient Sparse Bayesian Learning Algori
   number={},
   pages={1-14},
   doi={10.1109/TNNLS.2020.3049056}}
+```
 
